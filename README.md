@@ -1,3 +1,5 @@
+![Rupesh Attarde - Profile Banner](./banner.png.png)
+
 # 💫 About Me:
 Hi there, I'm Rupesh Attarde 👋<br><br>🎓  BCA student passionate about Artificial Intelligence, Machine Learning, and Backend Development.<br>I enjoy building practical applications using Python, APIs, and modern AI technologies. My interests include Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and developing scalable backend systems.<br><br>📫 Connect With Me<br>Feel free to explore my repositories, contribute to my projects, or connect with me for collaboration.
 
